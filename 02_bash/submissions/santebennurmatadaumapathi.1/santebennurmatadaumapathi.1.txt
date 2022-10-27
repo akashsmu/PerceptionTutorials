@@ -1,0 +1,8 @@
+This is my submission
+total 0
+drwxrwxrwx 1 akash akash 512 Oct 27 17:03 folder_1
+-rwxrwxrwx 1 akash akash   0 Oct 27  2022 santebennurmatadaumapathi.1.txt
+total 0
+drwxrwxrwx 1 akash akash 512 Oct 27 17:03 folder_1
+-rwxrwxrwx 1 akash akash 133 Oct 27  2022 santebennurmatadaumapathi.1.txt
+/mnt/c/Users/akash/Desktop/Perception/PerceptionTutorials/02_bash/submissions/santebennurmatadaumapathi.1
